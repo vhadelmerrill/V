@@ -11,6 +11,7 @@
   <h2> Cerifications </h2>
   
 - [CompTIA Security Plus](https://imgur.com/a/j1CvIp5)
+- [Qualys Certified Specialist Certifications](https://imgur.com/a/FUJPfbJ)
 <h2>  Connect with me:</h2>
 
 [<img align="left" alt="vhadelmerrill | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
